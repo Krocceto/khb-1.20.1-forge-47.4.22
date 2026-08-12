@@ -36,5 +36,15 @@
   "item.k_humble_beginnings.flint_shovel": "Flint Shovel Head",
   "item.k_humble_beginnings.sieve": "Sieve",
 
+  "item.k_humble_beginnings.raw_hide": "Raw Hide",
+  "item.k_humble_beginnings.raw_cow_hide": "Raw Cow Hide",
+  "item.k_humble_beginnings.raw_pig_hide": "Raw Pig Hide",
+  "item.k_humble_beginnings.raw_equine_hide": "Raw Equine Hide",
+  "item.k_humble_beginnings.raw_llama_hide": "Raw Llama Hide",
+  "item.k_humble_beginnings.raw_fox_pelt": "Raw Fox Pelt",
+  "item.k_humble_beginnings.raw_wolf_pelt": "Raw Wolf Pelt",
+  "item.k_humble_beginnings.raw_panda_pelt": "Raw Panda Pelt",
+  "item.k_humble_beginnings.raw_polar_bear_pelt": "Raw Polar Bear Pelt",
+
   "creativetab.hb_tab": "Humble Beginnings"
 }

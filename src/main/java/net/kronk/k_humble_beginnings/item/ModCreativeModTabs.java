@@ -45,6 +45,16 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.FLINT_SHOVEL.get());
                     pOutput.accept(ModItems.SIEVE.get());
 
+                    pOutput.accept(ModItems.RAW_HIDE.get());
+                    pOutput.accept(ModItems.RAW_COW_HIDE.get());
+                    pOutput.accept(ModItems.RAW_PIG_HIDE.get());
+                    pOutput.accept(ModItems.RAW_EQUINE_HIDE.get());
+                    pOutput.accept(ModItems.RAW_LLAMA_HIDE.get());
+                    pOutput.accept(ModItems.RAW_FOX_PELT.get());
+                    pOutput.accept(ModItems.RAW_WOLF_PELT.get());
+                    pOutput.accept(ModItems.RAW_PANDA_PELT.get());
+                    pOutput.accept(ModItems.RAW_POLAR_BEAR_PELT.get());
+
                     pOutput.accept(ModItems.WHITE_SHEET.get());
                     pOutput.accept(ModItems.LIGHT_GRAY_SHEET.get());
                     pOutput.accept(ModItems.GRAY_SHEET.get());

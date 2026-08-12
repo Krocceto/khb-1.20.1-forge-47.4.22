@@ -153,6 +153,42 @@ public class ModItems {
         "sieve",
         () -> new Item(new Item.Properties())
     );
+    public static final RegistryObject<Item> RAW_HIDE = ITEMS.register(
+        "raw_hide",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_COW_HIDE = ITEMS.register(
+        "raw_cow_hide",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_PIG_HIDE = ITEMS.register(
+        "raw_pig_hide",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_EQUINE_HIDE = ITEMS.register(
+        "raw_equine_hide",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_LLAMA_HIDE = ITEMS.register(
+        "raw_llama_hide",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_FOX_PELT = ITEMS.register(
+        "raw_fox_pelt",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_WOLF_PELT = ITEMS.register(
+        "raw_wolf_pelt",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_PANDA_PELT = ITEMS.register(
+        "raw_panda_pelt",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> RAW_POLAR_BEAR_PELT = ITEMS.register(
+        "raw_polar_bear_pelt",
+        () -> new Item(new Item.Properties())
+    );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
