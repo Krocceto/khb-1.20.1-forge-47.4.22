@@ -1,6 +1,7 @@
 package net.kronk.k_humble_beginnings.item;
 
 import net.kronk.k_humble_beginnings.HumbleBeginnings;
+import net.kronk.k_humble_beginnings.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -24,6 +25,8 @@ public class ModCreativeModTabs {
                 .title(Component.translatable("creativetab.hb_tab"))
                 .displayItems((pParameters, pOutput) -> {
                     pOutput.accept(ModItems.EXAMPLE_ITEM.get());
+                    pOutput.accept(ModBlocks.EXAMPLE_BLOCK.get());
+
                     pOutput.accept(ModItems.PILLOW.get());
                     pOutput.accept(ModItems.SEWING_KIT.get());
                     pOutput.accept(ModItems.CLOTH.get());

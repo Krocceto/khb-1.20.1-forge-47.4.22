@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "k_humble_beginnings:block/example_block"
+    }
+  }
+}

@@ -1,6 +1,7 @@
 package net.kronk.k_humble_beginnings;
 
 import com.mojang.logging.LogUtils;
+import net.kronk.k_humble_beginnings.block.ModBlocks;
 import net.kronk.k_humble_beginnings.item.ModCreativeModTabs;
 import net.kronk.k_humble_beginnings.item.ModItems;
 import net.minecraft.client.Minecraft;
@@ -43,6 +44,7 @@ public class HumbleBeginnings {
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
