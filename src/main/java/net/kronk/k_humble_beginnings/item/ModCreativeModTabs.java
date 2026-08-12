@@ -35,23 +35,6 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.STRING_KNIT.get());
                     pOutput.accept(ModItems.KNITTING_STICKS.get());
                     pOutput.accept(ModItems.FLINT_SHEARS.get());
-                    pOutput.accept(ModItems.WHITE_SHEET.get());
-                    pOutput.accept(ModItems.BLUE_SHEET.get());
-                    pOutput.accept(ModItems.GREEN_SHEET.get());
-                    pOutput.accept(ModItems.RED_SHEET.get());
-                    pOutput.accept(ModItems.YELLOW_SHEET.get());
-                    pOutput.accept(ModItems.BLACK_SHEET.get());
-                    pOutput.accept(ModItems.ORANGE_SHEET.get());
-                    pOutput.accept(ModItems.PURPLE_SHEET.get());
-                    pOutput.accept(ModItems.BROWN_SHEET.get());
-                    pOutput.accept(ModItems.GRAY_SHEET.get());
-                    pOutput.accept(ModItems.MAGENTA_SHEET.get());
-                    pOutput.accept(ModItems.CYAN_SHEET.get());
-                    pOutput.accept(ModItems.LIME_SHEET.get());
-                    pOutput.accept(ModItems.PINK_SHEET.get());
-                    pOutput.accept(ModItems.LIGHT_BLUE_SHEET.get());
-                    pOutput.accept(ModItems.LIGHT_GRAY_SHEET.get());
-
                     pOutput.accept(ModItems.PLANT_FIBER.get());
                     pOutput.accept(ModItems.FIBER_STRING.get());
                     pOutput.accept(ModItems.FIBER_MESH.get());
@@ -61,6 +44,23 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.FLINT_PICKAXE.get());
                     pOutput.accept(ModItems.FLINT_SHOVEL.get());
                     pOutput.accept(ModItems.SIEVE.get());
+
+                    pOutput.accept(ModItems.WHITE_SHEET.get());
+                    pOutput.accept(ModItems.LIGHT_GRAY_SHEET.get());
+                    pOutput.accept(ModItems.GRAY_SHEET.get());
+                    pOutput.accept(ModItems.BLACK_SHEET.get());
+                    pOutput.accept(ModItems.BROWN_SHEET.get());
+                    pOutput.accept(ModItems.RED_SHEET.get());
+                    pOutput.accept(ModItems.ORANGE_SHEET.get());
+                    pOutput.accept(ModItems.YELLOW_SHEET.get());
+                    pOutput.accept(ModItems.LIME_SHEET.get());
+                    pOutput.accept(ModItems.GREEN_SHEET.get());
+                    pOutput.accept(ModItems.CYAN_SHEET.get());
+                    pOutput.accept(ModItems.LIGHT_BLUE_SHEET.get());
+                    pOutput.accept(ModItems.BLUE_SHEET.get());
+                    pOutput.accept(ModItems.PURPLE_SHEET.get());
+                    pOutput.accept(ModItems.MAGENTA_SHEET.get());
+                    pOutput.accept(ModItems.PINK_SHEET.get());
                 })
                 .build()
         );

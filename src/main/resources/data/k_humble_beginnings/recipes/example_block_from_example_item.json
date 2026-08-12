@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#":{
+      "item": "k_humble_beginnings:example_item"
+    }
+  },
+  "result": {
+    "item": "k_humble_beginnings:example_block"
+  }
+}

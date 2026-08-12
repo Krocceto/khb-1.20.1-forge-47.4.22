@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "k_humble_beginnings:example_block"
+    }
+  ],
+  "result": {
+    "item": "k_humble_beginnings:example_item",
+    "count": 9
+  }
+}
