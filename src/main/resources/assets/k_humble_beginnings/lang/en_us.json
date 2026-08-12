@@ -26,6 +26,15 @@
   "item.k_humble_beginnings.fluff": "Fluff",
   "item.k_humble_beginnings.sewing_kit": "Sewing Kit",
   "item.k_humble_beginnings.pillow": "Pillow",
+  "item.k_humble_beginnings.plant_fiber": "Plant Fiber",
+  "item.k_humble_beginnings.fiber_string": "Fiber String",
+  "item.k_humble_beginnings.fiber_mesh": "Fiber Mesh",
+  "item.k_humble_beginnings.flint_shard": "Flint Shard",
+  "item.k_humble_beginnings.flint_knife": "Flint Knife",
+  "item.k_humble_beginnings.flint_axe": "Flint Axe",
+  "item.k_humble_beginnings.flint_pickaxe": "Flint Pickaxe",
+  "item.k_humble_beginnings.flint_shovel": "Flint Shovel",
+  "item.k_humble_beginnings.sieve": "Sieve",
 
   "creativetab.hb_tab": "Humble Beginnings"
 }

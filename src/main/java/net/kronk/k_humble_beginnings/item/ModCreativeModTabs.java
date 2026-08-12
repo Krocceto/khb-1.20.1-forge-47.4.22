@@ -51,6 +51,16 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.PINK_SHEET.get());
                     pOutput.accept(ModItems.LIGHT_BLUE_SHEET.get());
                     pOutput.accept(ModItems.LIGHT_GRAY_SHEET.get());
+
+                    pOutput.accept(ModItems.PLANT_FIBER.get());
+                    pOutput.accept(ModItems.FIBER_STRING.get());
+                    pOutput.accept(ModItems.FIBER_MESH.get());
+                    pOutput.accept(ModItems.FLINT_SHARD.get());
+                    pOutput.accept(ModItems.FLINT_KNIFE.get());
+                    pOutput.accept(ModItems.FLINT_AXE.get());
+                    pOutput.accept(ModItems.FLINT_PICKAXE.get());
+                    pOutput.accept(ModItems.FLINT_SHOVEL.get());
+                    pOutput.accept(ModItems.SIEVE.get());
                 })
                 .build()
         );

@@ -117,6 +117,42 @@ public class ModItems {
         "pillow",
         () -> new Item(new Item.Properties())
     );
+    public static final RegistryObject<Item> FIBER_MESH = ITEMS.register(
+        "fiber_mesh",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> FIBER_STRING = ITEMS.register(
+        "fiber_string",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> FLINT_AXE = ITEMS.register(
+        "flint_axe",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> FLINT_KNIFE = ITEMS.register(
+        "flint_knife",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> FLINT_PICKAXE = ITEMS.register(
+        "flint_pickaxe",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> FLINT_SHARD = ITEMS.register(
+        "flint_shard",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> FLINT_SHOVEL = ITEMS.register(
+        "flint_shovel",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> PLANT_FIBER = ITEMS.register(
+        "plant_fiber",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> SIEVE = ITEMS.register(
+        "sieve",
+        () -> new Item(new Item.Properties())
+    );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
