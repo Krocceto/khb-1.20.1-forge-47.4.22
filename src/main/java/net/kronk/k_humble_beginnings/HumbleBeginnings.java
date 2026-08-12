@@ -60,7 +60,7 @@ public class HumbleBeginnings {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.EXAMPLE_ITEM);
-            event.accept(ModItems.PILLOW);
+            event.accept(ModBlocks.EXAMPLE_BLOCK);
         }
     }
 

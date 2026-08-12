@@ -29,6 +29,7 @@ public class ModCreativeModTabs {
 
                     pOutput.accept(ModItems.PILLOW.get());
                     pOutput.accept(ModItems.SEWING_KIT.get());
+                    pOutput.accept(ModItems.FLUFF.get());
                     pOutput.accept(ModItems.CLOTH.get());
                     pOutput.accept(ModItems.CLOTH_KNIT.get());
                     pOutput.accept(ModItems.STRING_KNIT.get());

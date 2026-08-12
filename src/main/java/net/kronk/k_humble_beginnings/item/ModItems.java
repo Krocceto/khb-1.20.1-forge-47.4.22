@@ -2,10 +2,13 @@ package net.kronk.k_humble_beginnings.item;
 
 import net.kronk.k_humble_beginnings.HumbleBeginnings;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.level.ItemLike;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+
+import java.util.function.Supplier;
 
 public class ModItems {
 
