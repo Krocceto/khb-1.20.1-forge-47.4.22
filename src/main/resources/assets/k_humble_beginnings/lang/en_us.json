@@ -1,0 +1,30 @@
+{
+  "item.k_humble_beginnings.example_item": "Example Item",
+
+  "item.k_humble_beginnings.white_sheet": "White Sheet",
+  "item.k_humble_beginnings.blue_sheet": "Blue Sheet",
+  "item.k_humble_beginnings.green_sheet": "Green Sheet",
+  "item.k_humble_beginnings.red_sheet": "Red Sheet",
+  "item.k_humble_beginnings.yellow_sheet": "Yellow Sheet",
+  "item.k_humble_beginnings.black_sheet": "Black Sheet",
+  "item.k_humble_beginnings.orange_sheet": "Orange Sheet",
+  "item.k_humble_beginnings.purple_sheet": "Purple Sheet",
+  "item.k_humble_beginnings.brown_sheet": "Brown Sheet",
+  "item.k_humble_beginnings.gray_sheet": "Gray Sheet",
+  "item.k_humble_beginnings.magenta_sheet": "Magenta Sheet",
+  "item.k_humble_beginnings.cyan_sheet": "Cyan Sheet",
+  "item.k_humble_beginnings.lime_sheet": "Lime Sheet",
+  "item.k_humble_beginnings.pink_sheet": "Pink Sheet",
+  "item.k_humble_beginnings.light_blue_sheet": "Light Blue Sheet",
+  "item.k_humble_beginnings.light_gray_sheet": "Light Gray Sheet",
+  "item.k_humble_beginnings.flint_shears": "Flint Shears",
+  "item.k_humble_beginnings.knitting_sticks": "Knitting Sticks",
+  "item.k_humble_beginnings.string_knit": "String Knit",
+  "item.k_humble_beginnings.cloth_knit": "Cloth Knit",
+  "item.k_humble_beginnings.cloth": "Cloth",
+  "item.k_humble_beginnings.fluff": "Fluff",
+  "item.k_humble_beginnings.sewing_kit": "Sewing Kit",
+  "item.k_humble_beginnings.pillow": "Pillow",
+
+  "creativetab.hb_tab": "Humble Beginnings"
+}
