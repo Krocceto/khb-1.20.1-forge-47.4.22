@@ -189,6 +189,10 @@ public class ModItems {
         "raw_polar_bear_pelt",
         () -> new Item(new Item.Properties())
     );
+    public static final RegistryObject<Item> LEATHER_ROPE = ITEMS.register(
+        "leather_rope",
+        () -> new Item(new Item.Properties())
+    );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
