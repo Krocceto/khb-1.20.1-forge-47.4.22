@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:string"
+    },
+    {
+      "item": "k_humble_beginnings:fluff"
+    },
+    {
+      "item": "k_humble_beginnings:sewing_kit"
+    },
+    {
+      "item": "k_humble_beginnings:cloth"
+    }
+  ],
+  "result": {
+    "item": "k_humble_beginnings:pillow",
+    "count": 1
+  }
+}

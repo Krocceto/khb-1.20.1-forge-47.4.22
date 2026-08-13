@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "k_humble_beginnings:plant_fiber"
+    },
+    {
+      "item": "k_humble_beginnings:plant_fiber"
+    },
+    {
+      "item": "k_humble_beginnings:plant_fiber"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ],
+  "result": {
+    "item": "k_humble_beginnings:fiber_string",
+    "count": 1
+  }
+}

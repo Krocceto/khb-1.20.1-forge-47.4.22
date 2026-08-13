@@ -1,5 +1,6 @@
 package net.kronk.k_humble_beginnings.item;
 
+import java.util.function.Supplier;
 import net.kronk.k_humble_beginnings.HumbleBeginnings;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.ItemLike;
@@ -7,8 +8,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-
-import java.util.function.Supplier;
 
 public class ModItems {
 
@@ -125,6 +124,10 @@ public class ModItems {
         "fiber_string",
         () -> new Item(new Item.Properties())
     );
+    public static final RegistryObject<Item> LEATHER_ROPE = ITEMS.register(
+        "leather_rope",
+        () -> new Item(new Item.Properties())
+    );
     public static final RegistryObject<Item> FLINT_AXE = ITEMS.register(
         "flint_axe",
         () -> new Item(new Item.Properties())
@@ -185,14 +188,10 @@ public class ModItems {
         "raw_panda_pelt",
         () -> new Item(new Item.Properties())
     );
-    public static final RegistryObject<Item> RAW_POLAR_BEAR_PELT = ITEMS.register(
-        "raw_polar_bear_pelt",
-        () -> new Item(new Item.Properties())
-    );
-    public static final RegistryObject<Item> LEATHER_ROPE = ITEMS.register(
-        "leather_rope",
-        () -> new Item(new Item.Properties())
-    );
+    public static final RegistryObject<Item> RAW_POLAR_BEAR_PELT =
+        ITEMS.register("raw_polar_bear_pelt", () ->
+            new Item(new Item.Properties())
+        );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

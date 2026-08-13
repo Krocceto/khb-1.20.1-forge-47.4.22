@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AB"],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "k_humble_beginnings:flint_shears",
+    "count": 1
+  }
+}

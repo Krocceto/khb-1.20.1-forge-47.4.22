@@ -37,6 +37,7 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.FLINT_SHEARS.get());
                     pOutput.accept(ModItems.PLANT_FIBER.get());
                     pOutput.accept(ModItems.FIBER_STRING.get());
+                    pOutput.accept(ModItems.LEATHER_ROPE.get());
                     pOutput.accept(ModItems.FIBER_MESH.get());
                     pOutput.accept(ModItems.FLINT_SHARD.get());
                     pOutput.accept(ModItems.FLINT_KNIFE.get());
@@ -54,7 +55,6 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.RAW_WOLF_PELT.get());
                     pOutput.accept(ModItems.RAW_PANDA_PELT.get());
                     pOutput.accept(ModItems.RAW_POLAR_BEAR_PELT.get());
-                    pOutput.accept(ModItems.LEATHER_ROPE.get());
 
                     pOutput.accept(ModItems.WHITE_SHEET.get());
                     pOutput.accept(ModItems.LIGHT_GRAY_SHEET.get());

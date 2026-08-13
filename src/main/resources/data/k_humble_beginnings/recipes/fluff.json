@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rusticdelight:cotton_boll"
+    },
+    {
+      "item": "rusticdelight:cotton_boll"
+    },
+    {
+      "item": "rusticdelight:cotton_boll"
+    },
+    {
+      "item": "k_humble_beginnings:knitting_sticks"
+    }
+  ],
+  "result": {
+    "item": "k_humble_beginnings:fluff",
+    "count": 1
+  }
+}

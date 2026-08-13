@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AB", "C "],
+  "key": {
+    "A": {
+      "item": "k_humble_beginnings:flint_shard"
+    },
+    "B": {
+      "item": "k_humble_beginnings:flint_shard"
+    },
+    "C": {
+      "item": "k_humble_beginnings:flint_shard"
+    }
+  },
+  "result": {
+    "item": "k_humble_beginnings:flint_axe",
+    "count": 1
+  }
+}
