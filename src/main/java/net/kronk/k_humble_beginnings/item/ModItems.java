@@ -192,6 +192,34 @@ public class ModItems {
         ITEMS.register("raw_polar_bear_pelt", () ->
             new Item(new Item.Properties())
         );
+    public static final RegistryObject<Item> PEBBLE = ITEMS.register(
+        "pebble",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> ROCK = ITEMS.register(
+        "rock",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> STONE_AXE_HEAD = ITEMS.register(
+        "stone_axe_head",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> STONE_PICKAXE_HEAD = ITEMS.register(
+        "stone_pickaxe_head",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> STONE_SHOVEL_BLADE = ITEMS.register(
+        "stone_shovel_blade",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> STONE_HOE_BLADE = ITEMS.register(
+        "stone_hoe_blade",
+        () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> STONE_SWORD_BLADE = ITEMS.register(
+        "stone_sword_blade",
+        () -> new Item(new Item.Properties())
+    );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

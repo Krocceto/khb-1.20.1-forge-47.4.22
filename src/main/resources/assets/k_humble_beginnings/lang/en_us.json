@@ -47,5 +47,13 @@
   "item.k_humble_beginnings.raw_polar_bear_pelt": "Raw Polar Bear Pelt",
   "item.k_humble_beginnings.leather_rope": "Leather Rope",
 
+  "item.k_humble_beginnings.pebble": "Pebble",
+  "item.k_humble_beginnings.rock": "Rock",
+  "item.k_humble_beginnings.stone_axe_head": "Stone Axe Head",
+  "item.k_humble_beginnings.stone_pickaxe_head": "Stone Pickaxe Head",
+  "item.k_humble_beginnings.stone_shovel_blade": "Stone Shovel Blade",
+  "item.k_humble_beginnings.stone_hoe_blade": "Stone Hoe Blade",
+  "item.k_humble_beginnings.stone_sword_blade": "Stone Sword Blade",
+
   "creativetab.hb_tab": "Humble Beginnings"
 }
