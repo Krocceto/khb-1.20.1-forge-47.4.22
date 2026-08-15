@@ -34,7 +34,7 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.CLOTH_KNIT.get());
                     pOutput.accept(ModItems.STRING_KNIT.get());
                     pOutput.accept(ModItems.KNITTING_STICKS.get());
-                    pOutput.accept(ModItems.FLINT_SHEARS.get());
+                    pOutput.accept(ModItems.FLINT_CUTTER.get());
                     pOutput.accept(ModItems.PLANT_FIBER.get());
                     pOutput.accept(ModItems.FIBER_STRING.get());
                     pOutput.accept(ModItems.LEATHER_ROPE.get());
@@ -61,8 +61,6 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.STONE_AXE_HEAD.get());
                     pOutput.accept(ModItems.STONE_PICKAXE_HEAD.get());
                     pOutput.accept(ModItems.STONE_SHOVEL_BLADE.get());
-                    pOutput.accept(ModItems.STONE_HOE_BLADE.get());
-                    pOutput.accept(ModItems.STONE_SWORD_BLADE.get());
 
                     pOutput.accept(ModItems.WHITE_SHEET.get());
                     pOutput.accept(ModItems.LIGHT_GRAY_SHEET.get());

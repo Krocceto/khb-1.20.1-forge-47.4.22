@@ -84,8 +84,8 @@ public class ModItems {
         "light_gray_sheet",
         () -> new Item(new Item.Properties())
     );
-    public static final RegistryObject<Item> FLINT_SHEARS = ITEMS.register(
-        "flint_shears",
+    public static final RegistryObject<Item> FLINT_CUTTER = ITEMS.register(
+        "flint_cutter",
         () -> new Item(new Item.Properties())
     );
     public static final RegistryObject<Item> KNITTING_STICKS = ITEMS.register(
@@ -210,14 +210,6 @@ public class ModItems {
     );
     public static final RegistryObject<Item> STONE_SHOVEL_BLADE = ITEMS.register(
         "stone_shovel_blade",
-        () -> new Item(new Item.Properties())
-    );
-    public static final RegistryObject<Item> STONE_HOE_BLADE = ITEMS.register(
-        "stone_hoe_blade",
-        () -> new Item(new Item.Properties())
-    );
-    public static final RegistryObject<Item> STONE_SWORD_BLADE = ITEMS.register(
-        "stone_sword_blade",
         () -> new Item(new Item.Properties())
     );
 
